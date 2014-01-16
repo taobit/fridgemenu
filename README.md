@@ -1,0 +1,1 @@
+An android app manager you food smartly
